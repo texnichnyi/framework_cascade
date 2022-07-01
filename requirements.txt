@@ -1,0 +1,7 @@
+pytest
+selenium
+pandas
+lxml
+platform
+datetime
+os
